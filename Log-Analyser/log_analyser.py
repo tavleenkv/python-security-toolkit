@@ -25,3 +25,8 @@ print("-" * 20)
 print(f"Failed Logins: {failed}")
 print(f"Successful Logins: {successful}")
 
+#returns a warning if the amount of repeated failed logins exceed a specific limit
+if failed >= 3:
+  print("\nWARNING")
+  print("Possible Brute Force Activity Detected")
+
