@@ -9,7 +9,7 @@ Hashes can be used to:
 - Detect file modification
 - Support malware analysis
 
-Example:
+Eg. 
 Input: test.exe
 Output: a3d7f9c3a4f...
 
