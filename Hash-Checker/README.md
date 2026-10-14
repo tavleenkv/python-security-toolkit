@@ -1,4 +1,5 @@
-Objective
+## Objective
+
 Generate a SHA256 hash for any file.
 
 Security analysts frequently verify file integrity during investigations.
